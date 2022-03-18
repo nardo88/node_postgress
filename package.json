@@ -1,0 +1,27 @@
+{
+  "name": "node_postgress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nardo88/node_postgress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nardo88/node_postgress/issues"
+  },
+  "homepage": "https://github.com/nardo88/node_postgress#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3",
+    "ps": "^1.0.0"
+  }
+}
